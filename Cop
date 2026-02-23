@@ -1,0 +1,15 @@
+# Digital Attendance System (C++)
+
+A console-based application to digitize lecture attendance, replacing paper-based records.
+
+## Features
+- **Student Management:** Register and view student records.
+- **Session Tracking:** Create sessions for specific courses and dates.
+- **Attendance Logic:** Mark students as Present, Absent, or Late.
+- **Persistent Storage:** Data is saved to `.txt` files using `fstream`.
+
+## Weekly Development
+- **Week 1:** Initial structure and `Student` class.
+- **Week 2:** Menu system and `AttendanceSession` class.
+- **Week 3:** Attendance marking logic and summary reports.
+- **Week 4:** File handling and final refactoring.
